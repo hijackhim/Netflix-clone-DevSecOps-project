@@ -1,4 +1,4 @@
-                                                        #  **Netflix-clone-DevSecOps project**  #
+                                         #  **Netflix-clone-DevSecOps project**  #
 
 Tool used:
 
@@ -64,7 +64,8 @@ Step 10: Install Dependency-Check Plugin: OWASP
     You can now proceed with configuring your Jenkins pipeline to include these tools and credentials in your CI/CD process.
 
 Step 11: Add content from Pipeline.text into pipeline script in Jenkins
-     ![jenkins pipeline](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/d9b95dcd-3fdc-47fc-be62-b6586469fa24)
+
+  ![jenkins pipeline](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/d9b95dcd-3fdc-47fc-be62-b6586469fa24)
 
 
 Phase 4: Monitoring
@@ -88,7 +89,8 @@ Step 14: Configure Prometheus Plugin Integration
 Phase 6: Kubernetes
 
 Step 15: Create Kubernetes Cluster with Nodegroups
-         ![eks-cluster](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/3a0f1bb2-a884-42c8-b939-c635097f4594)
+
+  ![eks-cluster](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/3a0f1bb2-a884-42c8-b939-c635097f4594)
          
   ![node](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/68047b6a-193d-45a8-9c5a-b106ce26ff3c)
 
@@ -98,9 +100,12 @@ Step 15: Create Kubernetes Cluster with Nodegroups
         Install Node Exporter using Helm
 
 Step 16: Deploy the Application with ArgoCD
-         ![Argocdbest](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/3a5a9c9d-8232-4466-be70-352ef4354b71)
+
+   ![Argocdbest](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/3a5a9c9d-8232-4466-be70-352ef4354b71)
          
   ![deplyed-site](https://github.com/hijackhim/Netflix-clone-DevSecOps-project/assets/105789918/15cc9f3a-bbea-4a6c-bbdb-85bf4349be0d)
+
+
 
 
 Phase 7: Cleanup
